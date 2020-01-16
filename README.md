@@ -5,3 +5,5 @@ Latihan github strukdat
 halo ini latihan
 
 diedit nih di lokal mantep gann
+
+nah ini diedit di remote
