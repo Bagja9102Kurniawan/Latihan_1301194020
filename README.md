@@ -3,3 +3,5 @@
 Latihan github strukdat
 
 halo ini latihan
+
+diedit nih di lokal mantep gann
