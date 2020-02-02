@@ -2,12 +2,5 @@
 
 Latihan github strukdat
 
-halo ini latihan
-
-diedit nih di lokal mantep gann
-
-nah ini diedit di remote
-
-COBA EDIT LAGI DI REMOTE
-
-COBA EDIT LOKAL LAGI BIAR JOSSS
++ TP strukdat
+silakan dinikmati kawan awas jangan plagiarisme, hanya jadikan referensi saja
